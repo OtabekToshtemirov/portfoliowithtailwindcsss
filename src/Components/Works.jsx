@@ -78,7 +78,7 @@ const MyProjects = () => {
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl mb-2">You tube</div>
                         <p className="text-gray-700 text-base">
-                            You tube clone with React and You tube API
+                            You tube clone with React and You tube api
                         </p>
                     </div>
                     <div className="px-6 py-4">
