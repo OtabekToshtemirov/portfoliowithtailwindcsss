@@ -2,10 +2,10 @@
 const Footer = () => {
     return (
         <footer className="bg-gray-900 text-gray-200 py-4">
-            <div className="container mx-auto flex items-center justify-between">
-                <div className="flex flex-wrap space-x-12  md:justify-center md:items-start">
+            <div className="container mx-auto px-10  flex items-center justify-between">
+                <div className="flex  flex-wrap space-x-12   md:justify-center md:items-start">
                     <a
-                        href="https://www.linkedin.com/"
+                        href="https://www.linkedin.com/in/otabek-toshtemirov"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-200  hover:text-gray-400 transition duration-300"
@@ -13,7 +13,7 @@ const Footer = () => {
                         LinkedIn
                     </a>
                     <a
-                        href="https://github.com/"
+                        href="https://github.com/otabektoshtemirov"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-200 hover:text-gray-400 transition duration-300"
@@ -21,7 +21,7 @@ const Footer = () => {
                         GitHub
                     </a>
                     <a
-                        href="https://twitter.com/"
+                        href="https://twitter.com/toshtemirovota"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-200 hover:text-gray-400 transition duration-300"
@@ -29,7 +29,7 @@ const Footer = () => {
                         Twitter
                     </a>
                     <a
-                        href="https://telegram.org/"
+                        href="https://telegram.me/shoraqorgon"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-200 hover:text-gray-400 transition duration-300"
